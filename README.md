@@ -21,15 +21,9 @@ It allows a user to log in with predefined credentials, shows a personalized wel
 
 ---
 
-## 🔧 How to Run Locally
 
-⿡ Clone or download this repository.  
-⿢ Open the project folder.  
-⿣ Open index.html in your web browser.  
-⿤ Use one of the following credentials to log in:
 
-| Username | Password 
-  admin    | 1234     
+| Username - admin   | Password - 1234     
 
 ---
 
