@@ -31,10 +31,9 @@ It allows a user to log in with predefined credentials, shows a personalized wel
 
 - HTML5
 - CSS3
-- JavaScript (ES6)
+- JavaScript 
 - [Netlify](https://www.netlify.com/) for deployment
 
----
 
 ## 📂 Project Structure
 
